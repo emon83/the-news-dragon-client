@@ -1,0 +1,29 @@
+.text-secondary {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: #706f6f;
+}
+
+.display__date {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #403f3f;
+}
+
+.news__container{
+    height: 80px;
+    background: #F3F3F3;
+}
+
+.danger-btn{
+    font-size: 20px;
+    height: 48px;
+}
+
+.text-danger{
+    font-size: 18px;
+}

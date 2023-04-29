@@ -1,0 +1,9 @@
+.nav__container a {
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration: none;
+  color: #706f6f;
+  padding-left: 20px;
+  margin: 40px 0;
+}
